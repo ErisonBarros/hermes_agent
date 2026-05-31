@@ -1,0 +1,16 @@
+# Credentials
+.git-credentials
+*.secret
+*.key
+.env
+
+# Node modules (from presentation build)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio cache
+*.ogg
+*.mp3
